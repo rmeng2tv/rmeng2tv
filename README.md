@@ -30,9 +30,10 @@
 - 4단계 계정 위계, 단독 설치 모드 스위치, GitHub Actions 자동 배포 + 자동 마이그레이션
 - `PHP 8.2` `MySQL` `GitHub Actions` `Cloudflare`
 
-### 4. 알맹이툴즈 견적서 생성기 (라이브)
+### 4. 알맹이툴즈 견적서 생성기 (라이브, [소스 공개](https://github.com/rmeng2tv/rmeng-tools))
 - 로그인 없이 쓰는 4단계 견적서 위저드, 실시간 A4 미리보기, PDF·이미지 저장
 - 한 코드베이스로 **웹과 토스 앱인토스 미니앱** 두 결과물을 빌드
+- PDF 라이브러리 지연 로딩으로 첫 화면 JS 888KB → 289KB, 린트·세금 계산 단위 테스트를 통과해야 배포되는 CI
 - [tools.rmeng2.co.kr](https://tools.rmeng2.co.kr/) · `React 19` `Vite` `GitHub Actions`
 
 ### 5. AI 마케팅 글 생성 SaaS (개발 총괄, 라이브 후 인계)
